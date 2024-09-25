@@ -10,6 +10,7 @@
 | Hashcat    | :white_check_mark:      |  
 | Nmap   | :white_check_mark:      |   
 | Nano   | :white_check_mark:      |
+| Ruby    |  :white_check_mark:    |
 | Python   | :white_check_mark:      |
 | Remmina    |  :white_check_mark:    |
 | Sudo    |  :white_check_mark:    |
