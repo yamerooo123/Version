@@ -38,8 +38,8 @@ def get_version(binary_name):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Under development"
-              "Created by Suphawith Phusanbai"
+        print("Under development \n"
+              "Created by Suphawith Phusanbai \n"
               "Usage: version <BINARY>")
     else:
         binary_name = sys.argv[1]
