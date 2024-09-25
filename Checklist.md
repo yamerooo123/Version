@@ -11,6 +11,9 @@
 | Nano   | :white_check_mark:      |
 | Python   | :white_check_mark:      |
 | Remmina    |  :white_check_mark:    |
+| Sudo    |  :white_check_mark:    |
 | Vim   | :white_check_mark:      |
+| Whoami    |  :white_check_mark:    |
 | Xfreerdp    |  :white_check_mark:    |
+
 
