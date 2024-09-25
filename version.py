@@ -31,14 +31,16 @@ def get_version(binary_name):
         result = subprocess.run([binary_name, '-v'], capture_output=True, text=True, check=True)
         print(f"{binary_name} version: {result.stdout.strip()}")
     except subprocess.CalledProcessError:
-        print(f"Error: Unable to retrieve version for {binary_name}.")
+        pass
 
     except FileNotFoundError:
-        print(f"Error: {binary_name} not found on your system.")
+        print(f"Error: Are you sure you have {binary_name} installed?")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: version <BINARY>")
+        print("Under development"
+              "Created by Suphawith Phusanbai"
+              "Usage: version <BINARY>")
     else:
         binary_name = sys.argv[1]
         get_version(binary_name)
