@@ -7,7 +7,8 @@
 | Firefox    |  :white_check_mark:    |
 | Firefox    |  :white_check_mark:    |
 | Gobuster    | :white_check_mark:      |  
-| Hashcat    | :white_check_mark:      |  
+| Hashcat    | :white_check_mark:      |
+| Ifconfig    |  :white_check_mark:    |
 | Nmap   | :white_check_mark:      |   
 | Nano   | :white_check_mark:      |
 | Ruby    |  :white_check_mark:    |
