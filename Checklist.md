@@ -8,4 +8,5 @@
 | Hashcat    | :white_check_mark:      |  
 | Nmap   | :white_check_mark:      |   
 | Nano   | :white_check_mark:      |
+| Python   | :white_check_mark:      |
 | Vim   | :white_check_mark:      |
