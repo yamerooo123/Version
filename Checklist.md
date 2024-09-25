@@ -1,5 +1,6 @@
 | Tool       | Test        |
-|------------|-------------|    
+|------------|-------------|
+| Brew    |  :white_check_mark:    |
 | Cat    |  :white_check_mark:    |
 | Evil-WINRM    |  :white_check_mark:    |
 | FeroxBuster    |  :white_check_mark:    |
@@ -15,5 +16,6 @@
 | Vim   | :white_check_mark:      |
 | Whoami    |  :white_check_mark:    |
 | Xfreerdp    |  :white_check_mark:    |
+
 
 
