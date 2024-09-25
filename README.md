@@ -1,4 +1,4 @@
-VERSION
+**VERSION**
 
 Linux binary for checking any tool version for forgetful people!
 
